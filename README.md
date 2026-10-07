@@ -6,6 +6,8 @@ standard.
 Drop it on a clip and the image shakes — random hand-held motion, regular wave wobble, zoom
 and rotation shake, optional per-channel RGB separation and motion blur.
 
+<img width="270" height="277" alt="lua" src="https://github.com/user-attachments/assets/0a31ea3e-0f01-44a9-a1ea-0316674deff7" />
+
 ## This is an alternative to Sapphire's S_Shake, not a clone of it
 
 If you have been looking for S_Shake and do not want to buy Sapphire, this does the same
@@ -22,6 +24,7 @@ If you have been looking for S_Shake and do not want to buy Sapphire, this does 
 
 Sapphire and S_Shake are trademarks of Boris FX. This project is not affiliated with,
 endorsed by, or derived from Boris FX or Sapphire.
+
 
 ## Install
 
