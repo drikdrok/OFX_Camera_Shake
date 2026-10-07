@@ -1,0 +1,13 @@
+# Build output
+build/
+
+# Install log written by install.ps1
+install.log
+
+# Visual Studio / MSVC leftovers
+*.obj
+*.ilk
+*.pdb
+*.exp
+*.lib
+.vs/
